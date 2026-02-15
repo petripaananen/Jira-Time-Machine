@@ -16,7 +16,7 @@ If you discover a security vulnerability in Jira Time Machine, please report it 
 
 ### How to Report
 
-Please report vulnerabilities by emailing the repository owner directly or using the [GitHub Private Vulnerability Reporting](https://github.com/petolapa/Jira-Time-Machine/security/advisories/new) feature if enabled.
+Please report vulnerabilities by emailing the repository owner directly or using the [GitHub Private Vulnerability Reporting](https://github.com/petripaananen/Jira-Time-Machine/security/advisories/new) feature if enabled.
 
 ### Response Timeline
 
