@@ -11,9 +11,6 @@ Real-time "What-If" Analysis: Interactive sliders allow users to see instant imp
 
 Compact Dashboard UI: A high-density, professional interface built with Forge UI Kit 2, optimized for modern Jira environments.
 
-Academic Foundation
-This project serves as the practical implementation for a Master's Thesis at JAMK University of Applied Sciences: "Emergent Workflows in the Video Game Industry: Leveraging AI World Models as a Framework for Production Management."
-
 It bridges the gap between software production theory (Context Switching, Coupling, and Aleatoric Uncertainty) and daily project management execution.
 
 Tech Stack
